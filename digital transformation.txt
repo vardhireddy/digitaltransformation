@@ -1,0 +1,40 @@
+A communication service provider(CSP) delivers a network connection that enables a variety of communication services - primarily voice,video, message and data.
+
+The core switching, routing and signalling infrastructures that supports fixed wire line, broadband, mobile, and cable networks are central to life as a CSP.
+
+These network functions, in turn have been traditionally supported by complex suite of monetization and management support software which stratecast refers to as 
+operations, orchestration, data analytic and monetization. 
+
+CSPs are now finding themselves at a crossroads - pushed by new market realities and demands, pulled by competitive market dynamics-  to
+transform to something different.
+
+But transform to what? A digital service provider is currently the most common response.
+
+CSP already offering digital services. Stratecast believes that the DSP transformation is more about how a CSP will do a business. While a DSP will continue to
+offer communication connectivity services, it will also expand its portfolio services - adding value to the connection -in part, by building an extensive partner
+ecosystem,and by taking steps such as adopting open networking technologies and practices.
+
+E.g: Digital Transformation in telcom.
+
+SDN combined with NFV, promises to bring unprecedented level of digital control to global IT networks.
+
+SDN shuns proprietary hardware for an open, programmable global network infrastructure that can be centrally managed. And NFV enables features - such as 
+firewall/proxy and acceleration to be virtualized and delivered either from the network or from customer premise equipment (CSP), enabling the zero touch 
+provisioning when additional functionality is required.
+
+These technologies make it possible for enterprises to access network capacity on demand via a self service portal.In addition, routing and security policies can
+automatically adapt to address the real time congestion,security threats or network outages.
+
+Business Benefits enterprises can enjoy with SDN and NFV.
+1. Increase business agility.(Months to Minutes)
+2. Improve the network visibility, performance and management control(dashboard)
+3. Enhance security (apply global security on centrally managed controllers)
+4. Eliminate the vendor lock-in (Open platforms are key in eliminating vendor lock-in and driving growth in SDN. Open daylight platform)
+5. Reduce costs (SDN pools multiple compute, storage and processing functions onto low cost commodity servers to reduce capital expenditure. 
+				At the same time, virtualization enables a lot of manual network configuration and management tasks to be automated, reducing operating costs.)
+
+				
+https://www.prnewswire.com/news-releases/what-is-a-digital-service-provider-hint-there-is-more-than-a-single-answer-300265485.html
+https://www.orange-business.com/en/magazine/five-business-benefits-of-sdn-and-nfv
+
+
